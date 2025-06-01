@@ -20,6 +20,7 @@ export default {
 
 <style>
 #app {
+  padding-top: 30px;
   font-family: Arial, sans-serif;
   color: #333;
   min-height: 100vh;
